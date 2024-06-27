@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola a todos 👋
+Aprendiendo desarrollo con framework  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 <!--
 **GeorgiPE/GeorgiPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
